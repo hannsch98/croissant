@@ -1,0 +1,21 @@
+body {
+	font-family: sans-serif;
+}
+
+.photo {
+	width: 500px;
+}
+
+.footer {
+	background: pink;
+	text-align: center;
+	margin-top: 5px;
+	padding: 10px;
+}
+
+.home {
+	background: pink;
+	text-align: left;
+	margin-bottom: 5px;
+	padding: 10px;
+}
